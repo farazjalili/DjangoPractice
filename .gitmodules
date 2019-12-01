@@ -1,0 +1,3 @@
+[submodule "apps/AuthenticationDjango"]
+	path = apps/AuthenticationDjango
+	url = https://github.com/farazjalili/AuthenticationDjango.git
